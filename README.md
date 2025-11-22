@@ -1,5 +1,11 @@
 # dactyl-manuform-5x6
 
+## hardware
+diodes: 1N4148
+wires: core wire 24 awg
+controllers: ATmega32U4
+TRS: PJ320A
+
 ## keyboard case
 dactyl-configurator: https://github.com/rianadon/dactyl-configurator
 
